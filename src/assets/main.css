@@ -1,0 +1,6 @@
+/* Styl dla linków aktywnych */
+a:active,
+a:focus {
+    outline: none;
+    /* Usunięcie domyślnego podświetlenia */
+}
